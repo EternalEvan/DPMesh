@@ -2,7 +2,7 @@
 *[Yixuan Zhu\*](https://eternalevan.github.io/), [Ao Li\*](https://rammusleo.github.io/), [Yansong Tang†](https://andytang15.github.io/), [Wenliang Zhao](https://wl-zhao.github.io/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)*
 ----
 [**[Paper]**](https://arxiv.org/abs/2404.01424) | 
-[**[Project_page]**](https://rammusleo.github.io/dpmesh-proj/)
+[**[Project_page]**](https://eternalevan.github.io/dpmesh-proj/)
 
 The repository contains the official implementation for the paper "DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery" (CVPR 2024).
 
